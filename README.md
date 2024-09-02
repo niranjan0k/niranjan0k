@@ -10,6 +10,18 @@ Software Developer with experience in Python, Django, PHP, and Java, passionate 
 
 <img src="https://github.com/niranjan0k/niranjan0k/blob/main/1721487877657.jpeg" alt="niranjan" />
 
+<hr/>
+## &#x1f4c8; GitHub Status
+
+<p><a href="https://github.com/niranjan0k/niranjan0k">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niranjan0k&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Niranjan's GitHub Status" />
+</a>
+<a href="https://github.com/niranjan0k/niranjan0k">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan0k&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+</p>
+
 <!--
 **niranjan0k/niranjan0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
