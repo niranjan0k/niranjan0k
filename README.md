@@ -1,6 +1,6 @@
 ## Hi, I'm Niranjan Vishwakarm 👋
 
-[!Linked In](www.linkedin.com/in/niranjan0k)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/niranjan0k)
 
 <!--
 **niranjan0k/niranjan0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
