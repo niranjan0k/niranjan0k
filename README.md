@@ -1,4 +1,4 @@
-## Hi, I'm Niranjan Vishwakarm 👋
+## Hi, I'm Niranjan Vishwakarma 👋
 
 Software Developer with experience in Python, Django, PHP, and Java, passionate about building efficient and scalable applications.
 
