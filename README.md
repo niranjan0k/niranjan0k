@@ -42,7 +42,6 @@ Currently, I lead development and integration efforts for multiple government pr
 - MySQL / MariaDB
 
 </td>
-<tr>
 <td valign="top" width="50%">
 
 ### 🌐 Frontend
