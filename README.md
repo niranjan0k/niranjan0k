@@ -30,7 +30,7 @@ Currently, I lead development and integration efforts for multiple government pr
 ## 🛠️ Tech Stack
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### 💻 Backend
 - C# (.NET)
@@ -42,7 +42,7 @@ Currently, I lead development and integration efforts for multiple government pr
 - MySQL / MariaDB
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### 🌐 Frontend
 - HTML, CSS, JavaScript, JQuery
@@ -53,7 +53,7 @@ Currently, I lead development and integration efforts for multiple government pr
 - SDK Integration (Razorpay, Paytm POS)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### ⚙️ Tools & DevOps
 - Window Server
