@@ -41,17 +41,20 @@ Currently, I lead development and integration efforts for multiple government pr
 - PostgreSql
 - MySQL / MariaDB
 
-### 📱 Mobile
-- Android (Java)
-- SDK Integration (Razorpay, Paytm POS)
-
 </td>
-
+<tr>
 <td valign="top" width="50%">
 
 ### 🌐 Frontend
 - HTML, CSS, JavaScript, JQuery
 - Bootstrap
+  
+### 📱 Mobile
+- Android (Java)
+- SDK Integration (Razorpay, Paytm POS)
+
+</td>
+<td valign="top" width="50%">
 
 ### ⚙️ Tools & DevOps
 - Window Server
@@ -63,7 +66,6 @@ Currently, I lead development and integration efforts for multiple government pr
 </td>
 </tr>
 </table>
----
 
 ## 🔥 Key Projects
 
