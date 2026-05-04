@@ -47,8 +47,9 @@ Currently, I lead development and integration efforts for multiple government pr
 - Bootstrap
 
 ### ⚙️ Tools & DevOps
+- Window Server
 - Linux (Ubuntu Server)
-- Apache / Nginx
+- IIS / Apache / Nginx
 - Git & GitHub
 - Cron Jobs & Automation
 
