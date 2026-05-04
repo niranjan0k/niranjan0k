@@ -102,8 +102,8 @@ Currently, I lead development and integration efforts for multiple government pr
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [(Add your profile link)](https://www.linkedin.com/in/niranjan0k/)
-- 📧 Email: (niranjan.vishwakarma003@gmail.com)
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan0k/)
+- 📧 Email: niranjan.vishwakarma003@gmail.com
 
 ---
 
