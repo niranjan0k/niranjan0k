@@ -28,6 +28,9 @@ Currently, I lead development and integration efforts for multiple government pr
 ---
 
 ## 🛠️ Tech Stack
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### 💻 Backend
 - C# (.NET)
@@ -40,7 +43,11 @@ Currently, I lead development and integration efforts for multiple government pr
 
 ### 📱 Mobile
 - Android (Java)
-- SDK Integrations (Razorpay, Paytm POS)
+- SDK Integration (Razorpay, Paytm POS)
+
+</td>
+
+<td valign="top" width="50%">
 
 ### 🌐 Frontend
 - HTML, CSS, JavaScript, JQuery
@@ -53,6 +60,9 @@ Currently, I lead development and integration efforts for multiple government pr
 - Git & GitHub
 - Cron Jobs & Automation
 
+</td>
+</tr>
+</table>
 ---
 
 ## 🔥 Key Projects
