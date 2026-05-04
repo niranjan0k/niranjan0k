@@ -30,8 +30,12 @@ Currently, I lead development and integration efforts for multiple government pr
 ## 🛠️ Tech Stack
 
 ### 💻 Backend
-- PHP (Core PHP)
+- C# (.NET)
 - Python (Django)
+- PHP (Core PHP)
+- Java (Spring Boot)
+- Sql Server
+- PostgreSql
 - MySQL / MariaDB
 
 ### 📱 Mobile
@@ -39,7 +43,7 @@ Currently, I lead development and integration efforts for multiple government pr
 - SDK Integrations (Razorpay, Paytm POS)
 
 ### 🌐 Frontend
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, JQuery
 - Bootstrap
 
 ### ⚙️ Tools & DevOps
