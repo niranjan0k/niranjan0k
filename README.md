@@ -1,38 +1,109 @@
-## Hi, I'm Niranjan Vishwakarma 👋
+# 👋 Hi, I'm Niranjan
 
-Software Developer with experience in Python, Django, PHP, and Java, passionate about building efficient and scalable applications.
+💼 Team Leader & Senior Developer at Sparrow Softech Pvt. Ltd.  
+💻 Full Stack Developer | Android Developer | Government Tech Solutions  
+📍 India  
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/niranjan0k)
+---
 
+## 🚀 About Me
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/niranjan0k/count.svg" />
+I am a results-driven software developer with strong experience in building and managing large-scale **e-Governance applications**, including municipal systems like Property Tax, RTS (Right to Service), and eOffice platforms.
 
-<img src="https://github.com/niranjan0k/niranjan0k/blob/main/1721487877657.jpeg" alt="niranjan" />
+Currently, I lead development and integration efforts for multiple government projects, focusing on **scalability, data accuracy, and seamless user experience**.
 
-<hr/>
-## &#x1f4c8; GitHub Status
+---
 
-<p><a href="https://github.com/niranjan0k/niranjan0k">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niranjan0k&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Niranjan's GitHub Status" />
-</a>
-<a href="https://github.com/niranjan0k/niranjan0k">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan0k&hide=css,html,tex&layout=compact&theme=dark" />
-</a>
+## 🧠 What I Do
 
-</p>
+- 🏛️ Develop and maintain **Municipal & Government Applications**
+- 📊 Handle **Property Tax Systems (DCB, Demand Generation, Reports)**
+- 🔄 Design **RTS Workflows & Service Modules**
+- 💳 Integrate **Payment Gateways (Razorpay, Paytm POS, QR, Webhook)**
+- 📱 Build **Android Applications with POS & SDK Integration**
+- 🔗 Develop **APIs for Dashboards & External Portals**
+- 🧾 Generate **Reports, PDFs, and Data Analytics Modules**
+- 👨‍💼 Lead teams, assign tasks, and ensure project delivery
 
-<!--
-**niranjan0k/niranjan0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Backend
+- PHP (Core PHP)
+- Python (Django)
+- MySQL / MariaDB
+
+### 📱 Mobile
+- Android (Java)
+- SDK Integrations (Razorpay, Paytm POS)
+
+### 🌐 Frontend
+- HTML, CSS, JavaScript
+- Bootstrap
+
+### ⚙️ Tools & DevOps
+- Linux (Ubuntu Server)
+- Apache / Nginx
+- Git & GitHub
+- Cron Jobs & Automation
+
+---
+
+## 🔥 Key Projects
+
+### 🏙️ Nanded Municipal Corporation Project
+- Property Tax System (DCB, Demand, Reports)
+- RTS Services (Name Transfer, Certificates, etc.)
+- Payment Gateway Integration (Razorpay, POS Machines)
+- Dashboard APIs for Government Portals
+
+### 🌐 Jharkhand State Urban Development Authority (Jh-SUDA)
+- Property Assessment & Tax Calculation
+- DLC Rate Implementation for FY 2026-27
+- Bulk Demand Generation for 49 ULBs
+- Reporting & Data Validation Modules
+
+### 🏢 eOffice System
+- Expense & Advance Management Modules
+- HRMS & Administrative Workflow Systems
+
+---
+
+## ⚡ Highlights
+
+- ✅ Built scalable APIs for **real-time government dashboards**
+- ✅ Implemented **bulk demand generation across 49 ULBs**
+- ✅ Solved complex **DCB mismatches & financial data issues**
+- ✅ Integrated **POS devices, QR payments, and webhooks**
+- ✅ Led team for multiple modules across projects
+
+---
+
+## 📚 Currently Learning
+
+- 📊 Data Analytics with Generative AI
+- 🧠 Natural Language Processing (NLP)
+- 🔐 Cybersecurity & Network Security
+- ⚙️ System Architecture & Scalable Design
+
+---
+
+## 📈 GitHub Stats
+
+![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: (Add your profile link)
+- 📧 Email: (Add your email)
+
+---
+
+## 💡 Motto
+
+> "Build systems that solve real-world problems, not just code that runs."
+
+---
